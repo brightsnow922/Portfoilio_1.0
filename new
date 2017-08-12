@@ -4,8 +4,12 @@ add web line
 dd web line
 haha
 ne
+<<<<<<< HEAD
 add master branch line
 
+=======
+add local line
+>>>>>>> add local line
 add something in new3
 
 
